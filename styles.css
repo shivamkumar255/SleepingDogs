@@ -1,0 +1,39 @@
+body {
+   font-family: sans-serif;
+   background-image:url(https://wallpapers.com/images/high/far-cry-5-mountain-atv-with-deer-g64xx39j6ifkwryo.webp);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+}
+div {
+   text-align: center;
+   background-color:rgba(255, 255, 255, 0.801);
+   width: 50%;
+  margin: auto;
+  color:rgb(0, 0, 0);
+  padding: 20px;
+  
+}
+p.name {
+   text-align: left;
+   background-color: white;
+   width:fit-content;
+   border-radius: 5px;
+   display: inline-block;
+   padding-bottom: 5px;
+
+}
+
+img.logo {
+ border-radius: 5px;
+
+} 
+h1 {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+
+ 
+ 
